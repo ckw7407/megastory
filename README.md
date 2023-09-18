@@ -1,3 +1,5 @@
+#DB
+
 create user 'cos'@'%' identified by 'cos1234';
 
 
